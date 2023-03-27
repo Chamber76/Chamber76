@@ -12,10 +12,9 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects
 
--👯 I’m looking to collaborate on Anything Cloud & DevOps related
+- 👯 I’m looking to collaborate on Anything Cloud & DevOps related
 
 - 💬 Talk to me about AWS, Linux, Devops  
 
